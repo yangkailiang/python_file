@@ -1,0 +1,621 @@
+2021-07-13 18:26:00,942 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:26:00,942 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:26:00,942 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:26:01,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 发送叮叮成功：
+{"status":1111,"wait":5,"source":"x5","punish":"deny","uuid":"96c3fe72ac139a81fca5ef194d19dcd0","errcode": 130101,"errmsg": "send too fast, exceed 20 times per minute"}
+2021-07-13 18:26:03,142 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:26:03,142 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:26:03,142 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:26:03,142 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:26:03,142 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:26:03,142 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:26:03,349 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 发送叮叮成功：
+{"status":1111,"wait":5,"source":"x5","punish":"deny","uuid":"d04535a9fb592917ce9fd846255c9c0f","errcode": 130101,"errmsg": "send too fast, exceed 20 times per minute"}
+2021-07-13 18:26:03,349 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 发送叮叮成功：
+{"status":1111,"wait":5,"source":"x5","punish":"deny","uuid":"d04535a9fb592917ce9fd846255c9c0f","errcode": 130101,"errmsg": "send too fast, exceed 20 times per minute"}
+2021-07-13 18:26:05,359 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:26:05,359 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:26:05,359 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:26:05,359 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:26:05,359 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:26:05,359 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:26:05,360 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:26:05,360 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:26:05,360 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:26:05,622 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 发送叮叮成功：
+{"status":1111,"wait":5,"source":"x5","punish":"deny","uuid":"90b5fb821e28022c3fe405f5c061b857","errcode": 130101,"errmsg": "send too fast, exceed 20 times per minute"}
+2021-07-13 18:26:05,622 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 发送叮叮成功：
+{"status":1111,"wait":5,"source":"x5","punish":"deny","uuid":"90b5fb821e28022c3fe405f5c061b857","errcode": 130101,"errmsg": "send too fast, exceed 20 times per minute"}
+2021-07-13 18:26:05,622 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 发送叮叮成功：
+{"status":1111,"wait":5,"source":"x5","punish":"deny","uuid":"90b5fb821e28022c3fe405f5c061b857","errcode": 130101,"errmsg": "send too fast, exceed 20 times per minute"}
+2021-07-13 18:27:04,955 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:04,955 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:04,955 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:05,119 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:07,129 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:07,129 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:07,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:07,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:07,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:07,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:07,311 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:07,311 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:09,318 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:09,531 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:09,531 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:09,531 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:11,540 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:11,540 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:11,540 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:11,540 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:11,541 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:11,719 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:11,719 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:11,719 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:11,719 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:13,726 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:13,893 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:13,893 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:13,893 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:13,893 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:13,893 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:15,895 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:15,895 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:15,895 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:15,895 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:15,895 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:15,895 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:15,896 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:16,084 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:16,084 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:16,084 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:16,084 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:16,084 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:16,084 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:18,090 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:18,091 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:18,091 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:18,091 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:18,091 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:18,091 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:18,091 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:18,091 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:18,288 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:18,288 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:18,288 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:18,288 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:18,288 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:18,288 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:18,288 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,293 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,294 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:20,477 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:35,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:35,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:35,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:35,721 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:37,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:37,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:37,733 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:37,733 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:37,733 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:37,733 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:37,926 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:37,926 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:39,934 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:39,934 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:39,934 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:39,934 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:39,934 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:39,934 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:39,935 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:39,935 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:39,935 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:40,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:40,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:40,130 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:42,132 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:42,132 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:42,132 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:42,132 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:42,133 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:42,335 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:42,335 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:42,335 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:42,335 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:44,343 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:44,343 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:44,343 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:44,343 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:44,343 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:44,344 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:44,570 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:44,570 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:44,570 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:44,570 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:44,570 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:46,581 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:46,581 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:46,581 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:46,581 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:46,581 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:46,581 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:46,582 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:46,826 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:46,826 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:46,826 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:46,826 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:46,826 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:46,826 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:48,834 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:49,039 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:49,039 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:49,039 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:49,039 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:49,039 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:49,039 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:49,039 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,049 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,050 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:51,272 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,283 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,284 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,285 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:53,482 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,493 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,494 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,495 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:55,732 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,740 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,742 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:57,962 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,971 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,972 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:27:59,973 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:00,205 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 读取配置文件失败，原因是：string indices must be integers
+2021-07-13 18:28:16,793 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:28:16,793 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:28:16,793 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:28:17,010 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-13 18:28:19,015 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:28:19,015 - /Users/ykl/test_saas/Tools/Dingding.py[line:18] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:28:19,016 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:28:19,016 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:28:19,016 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:28:19,016 - /Users/ykl/test_saas/Tools/Dingding.py[line:28] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:28:19,206 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-13 18:28:19,206 - /Users/ykl/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-13 18:43:02,984 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 叮叮发送失败，原因是：name 'Logger' is not defined
+2021-07-13 18:43:57,964 - /Users/ykl/test_saas/Tools/Generate_log.py[line:45] - WARNING: ddddd
+2021-07-13 18:44:13,810 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - ERROR: 叮叮发送失败，原因是：name 'Logger' is not defined
+2021-07-13 18:46:51,835 - /Users/ykl/test_saas/Tools/tools.py[line:26] - ERROR: 打开/Users/ykl/test_saas/Journal/log.txt失败,原因是：[Errno 2] No such file or directory: '/Users/ykl/test_saas/Journal/log.txt'
+2021-07-13 18:49:46,252 - /Users/ykl/test_saas/Tools/Generate_log.py[line:45] - WARNING: ddddd
+2021-07-13 18:50:08,624 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-13 18:50:08,624 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-13 18:50:08,625 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:50:08,625 - /Users/ykl/test_saas/Tools/Dingding.py[line:21] - INFO: 发送叮叮消息 ====》成功打开配置文件
+2021-07-13 18:50:08,625 - /Users/ykl/test_saas/Tools/Dingding.py[line:24] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:50:08,625 - /Users/ykl/test_saas/Tools/Dingding.py[line:24] - INFO: 成功读取叮叮密钥:SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+2021-07-13 18:50:08,625 - /Users/ykl/test_saas/Tools/Dingding.py[line:31] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:50:08,625 - /Users/ykl/test_saas/Tools/Dingding.py[line:31] - INFO: 成功读取叮叮url:https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+2021-07-13 18:50:08,829 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-13 18:50:08,829 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-13 18:51:11,022 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-13 18:51:11,022 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-13 18:51:11,275 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-13 18:51:11,275 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-13 18:52:32,761 - /Users/ykl/test_saas/Tools/tools.py[line:26] - ERROR: 打开/Users/ykl/test_saas/Journal/log.txt失败,原因是：[Errno 2] No such file or directory: '/Users/ykl/test_saas/Journal/log.txt'
+2021-07-14 08:42:17,312 - /Users/ykl/test_saas/Tools/Generate_log.py[line:46] - WARNING: ddddd
+2021-07-14 08:43:15,237 - /Users/ykl/test_saas/Tools/Generate_log.py[line:47] - WARNING: ddddd
+2021-07-14 08:43:28,642 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 08:43:28,642 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 08:43:28,840 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-14 08:43:28,840 - /Users/ykl/test_saas/Tools/Dingding.py[line:45] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-14 08:46:08,501 - /Users/ykl/test_saas/Tools/tools.py[line:27] - ERROR: 打开/Users/ykl/test_saas/Journal/log.txt失败,原因是：[Errno 2] No such file or directory: '/Users/ykl/test_saas/Journal/log.txt'
+2021-07-14 08:46:42,844 - /Users/ykl/test_saas/Tools/tools.py[line:27] - ERROR: 打开/Users/ykl/test_saas/Journal/log.txt失败,原因是：[Errno 2] No such file or directory: '/Users/ykl/test_saas/Journal/log.txt'
+2021-07-14 08:47:33,585 - /Users/ykl/test_saas/Tools/Mysql.py[line:12] - INFO: 成功打开配置文件
+2021-07-14 08:48:15,295 - /Users/ykl/test_saas/Tools/Mysql.py[line:12] - INFO: 成功打开配置文件{'environment': 'test', 'dingding_url': 'https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43', 'dingding_key': 'SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14', 'log_path': '/Users/ykl/test_saas/Journal/log.txt', 'sender': None, 'password': None, 'send_type': 'text'}
+2021-07-14 08:48:40,477 - /Users/ykl/test_saas/Tools/Mysql.py[line:12] - INFO: 成功打开配置文件expected str, bytes or os.PathLike object, not NoneType
+2021-07-14 08:49:11,283 - /Users/ykl/test_saas/Tools/Mysql.py[line:12] - INFO: 成功打开配置文件[Errno 2] No such file or directory: 'v'
+2021-07-14 08:50:18,221 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 08:50:18,222 - /Users/ykl/test_saas/Tools/Mysql.py[line:12] - INFO: 成功打开配置文件{'environment': 'test', 'dingding_url': 'https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43', 'dingding_key': 'SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14', 'log_path': '/Users/ykl/test_saas/Journal/log.txt', 'sender': None, 'password': None, 'send_type': 'text'}
+2021-07-14 08:50:41,534 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 09:00:16,699 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 09:00:16,701 - /Users/ykl/test_saas/Tools/Mysql.py[line:14] - INFO: 读取数据库环境成功：test
+2021-07-14 09:00:17,140 - /Users/ykl/test_saas/Tools/Mysql.py[line:29] - INFO: 连接数test据库成功None
+2021-07-14 09:01:02,784 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 09:01:02,784 - /Users/ykl/test_saas/Tools/Mysql.py[line:14] - INFO: 读取数据库环境成功：test
+2021-07-14 09:01:03,154 - /Users/ykl/test_saas/Tools/Mysql.py[line:29] - INFO: 连接数test环境据库成功<pymysql.cursors.DictCursor object at 0x1060ee1f0>
+2021-07-14 09:02:06,894 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 09:02:06,895 - /Users/ykl/test_saas/Tools/Mysql.py[line:14] - INFO: 读取数据库环境成功：test
+2021-07-14 09:02:07,505 - /Users/ykl/test_saas/Tools/Mysql.py[line:29] - INFO: 连接数test环境据库成功,<pymysql.cursors.DictCursor object at 0x10227a2b0>
+2021-07-14 09:02:07,546 - /Users/ykl/test_saas/Tools/Mysql.py[line:31] - INFO: 执行sql成功select * from team where id =1
+2021-07-14 09:59:58,201 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 09:59:58,202 - /Users/ykl/test_saas/Tools/Mysql.py[line:16] - INFO: 读取数据库环境成功：test
+2021-07-14 10:00:17,758 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 10:00:17,759 - /Users/ykl/test_saas/Tools/Mysql.py[line:16] - INFO: 读取数据库环境成功：test
+2021-07-14 10:00:27,822 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 10:00:27,823 - /Users/ykl/test_saas/Tools/Mysql.py[line:16] - INFO: 读取数据库环境成功：test
+2021-07-14 10:00:39,314 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 10:00:39,316 - /Users/ykl/test_saas/Tools/Mysql.py[line:16] - INFO: 读取数据库环境成功：test
+2021-07-14 10:02:29,369 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 10:02:29,370 - /Users/ykl/test_saas/Tools/Mysql.py[line:16] - INFO: 读取数据库环境成功：test
+2021-07-14 10:14:55,993 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 10:14:55,994 - /Users/ykl/test_saas/Tools/Mysql.py[line:16] - INFO: 读取数据库环境成功：test
+2021-07-14 10:54:56,294 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 10:55:25,765 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:04:03,457 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:04:24,709 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:06:02,179 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:06:57,013 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:12:14,608 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:13:11,524 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:18:51,145 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:20:37,824 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:20:53,278 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:20:53,599 - /Users/ykl/test_saas/Tools/aa.py[line:30] - INFO: 连接test数据库成功<pymysql.cursors.DictCursor object at 0x1026ada00>
+2021-07-14 11:28:22,043 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:28:22,314 - /Users/ykl/test_saas/Tools/aa.py[line:31] - INFO: 连接test数据库成功:<pymysql.cursors.DictCursor object at 0x10475c310>
+2021-07-14 11:28:22,339 - /Users/ykl/test_saas/Tools/aa.py[line:60] - INFO: 执行sql成功select * from team where id =1
+2021-07-14 11:28:22,363 - /Users/ykl/test_saas/Tools/aa.py[line:71] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-07-14 11:41:54,729 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:42:00,142 - /Users/ykl/test_saas/Tools/make_email.py[line:38] - INFO: 发送邮件成功，接收者：3171945535@qq.com
+2021-07-14 11:42:28,915 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:43:19,892 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:43:19,893 - /Users/ykl/test_saas/Tools/make_email.py[line:40] - ERROR: 发送邮件失败！！！原因：[Errno 2] No such file or directory: 'neirong'
+2021-07-14 11:44:28,814 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:44:34,284 - /Users/ykl/test_saas/Tools/make_email.py[line:37] - INFO: 发送邮件成功，接收者：3171945535@qq.com
+2021-07-14 11:47:06,819 - /Users/ykl/test_saas/Tools/tools.py[line:24] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:47:07,038 - /Users/ykl/test_saas/Tools/Dingding.py[line:40] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-14 11:51:17,355 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 11:51:22,806 - /Users/ykl/test_saas/Tools/make_email.py[line:37] - INFO: 发送邮件成功，接收者：3171945535@qq.com
+2021-07-14 13:36:21,521 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 13:36:21,749 - /Users/ykl/test_saas/Tools/Dingding.py[line:40] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-14 13:36:29,048 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 13:36:29,416 - /Users/ykl/test_saas/Tools/Mysql.py[line:32] - INFO: 连接test数据库成功:<pymysql.cursors.DictCursor object at 0x1060f1310>
+2021-07-14 13:36:29,463 - /Users/ykl/test_saas/Tools/Mysql.py[line:61] - INFO: 执行sql成功select * from team where id =1
+2021-07-14 13:36:29,546 - /Users/ykl/test_saas/Tools/Mysql.py[line:72] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-07-14 13:51:53,611 - /Users/ykl/test_saas/Tools/tools.py[line:23] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 13:51:53,885 - /Users/ykl/test_saas/Tools/Mysql.py[line:32] - INFO: 连接test数据库成功:<pymysql.cursors.DictCursor object at 0x102929310>
+2021-07-14 13:51:53,914 - /Users/ykl/test_saas/Tools/Mysql.py[line:61] - INFO: 执行sql成功select * from team where id =1
+2021-07-14 13:51:53,929 - /Users/ykl/test_saas/Tools/Mysql.py[line:72] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-07-14 15:03:18,127 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:03:44,735 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:04:23,246 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:04:54,435 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:05:04,853 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:07:18,840 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:07:27,909 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:07:48,303 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:09:23,035 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:10:30,027 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:23:53,617 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:23:53,619 - /Users/ykl/test_saas/Tools/Elasticsearch.py[line:11] - INFO: 连接es成功
+2021-07-14 15:25:04,739 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:25:04,741 - /Users/ykl/test_saas/Tools/Elasticsearch.py[line:11] - INFO: 连接es成功
+2021-07-14 15:25:04,932 - /Users/ykl/test_saas/Tools/Elasticsearch.py[line:16] - INFO: 查询成功，共计0条数据
+2021-07-14 15:26:25,654 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:26:25,659 - /Users/ykl/test_saas/Tools/Elasticsearch.py[line:12] - INFO: 连接es成功
+2021-07-14 15:26:25,750 - /Users/ykl/test_saas/Tools/Elasticsearch.py[line:25] - ERROR: es查询失败，原因是：RequestError(400, 'parsing_exception', 'Unknown key for a START_OBJECT in [quer].')
+2021-07-14 15:27:13,122 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 15:27:13,124 - /Users/ykl/test_saas/Tools/Elasticsearch.py[line:12] - INFO: 连接es成功
+2021-07-14 15:27:13,211 - /Users/ykl/test_saas/Tools/Elasticsearch.py[line:17] - INFO: 查询成功，共计0条数据
+2021-07-14 17:07:50,708 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-14 17:07:56,097 - /Users/ykl/test_saas/Tools/make_email.py[line:37] - INFO: 发送邮件成功，接收者：3171945535@qq.com
+2021-07-15 17:54:09,535 - /Users/ykl/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/ykl/test_saas/Configuration_file/config.yaml成功
+2021-07-15 17:54:09,753 - /Users/ykl/test_saas/Tools/Dingding.py[line:40] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-22 13:19:20,276 - /Users/apple/python项目/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/apple/python项目/test_saas/Configuration_file/config.yaml成功
+2021-07-22 13:19:20,493 - /Users/apple/python项目/test_saas/Tools/Dingding.py[line:40] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-07-22 13:19:35,708 - /Users/apple/python项目/test_saas/Tools/tools.py[line:18] - INFO: 打开/Users/apple/python项目/test_saas/Configuration_file/config.yaml成功
+2021-07-22 13:19:36,153 - /Users/apple/python项目/test_saas/Tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}

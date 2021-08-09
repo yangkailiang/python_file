@@ -1,0 +1,26 @@
+{
+    "config": {
+        "name": "testcase description",
+        "variables": {}
+    },
+    "teststeps": [
+        {
+            "name": "",
+            "request": {
+                "url": "http://gateway.icloud.com.cn:443",
+                "method": "CONNECT",
+                "headers": {
+                    "User-Agent": "cloudd/990 CFNetwork/1240.0.4 Darwin/20.6.0"
+                }
+            },
+            "validate": [
+                {
+                    "eq": [
+                        "status_code",
+                        200
+                    ]
+                }
+            ]
+        }
+    ]
+}

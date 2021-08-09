@@ -1,0 +1,40 @@
+
+login1:
+        request: [aaa,bbb,ccc]
+        aaa_data:
+                url: https://www.baodu.com
+                method: get
+                content_type: json
+                is_login: Ture
+                data: {
+                        user: admin,
+                        pwd: 123456
+                        }
+                response: json
+                assert_field: code
+                expected results: 200
+        bbb_data:
+                url: https://www.baodu.com
+                method: get
+                herder: {}
+                content_type: json
+                is_login: Ture
+                data: {
+                        user: admin,
+                        pwd: 123456
+                }
+                response: json
+                assert_field: code
+                expected results: 200
+        ccc_data:
+                url: https://www.baodu.com
+                method: get
+                content_type: json
+                is_login: Ture
+                data: {
+                        user: admin,
+                        pwd: 123456
+                }
+                response: json
+                assert_field: code
+                expected results: 200

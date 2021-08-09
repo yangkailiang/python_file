@@ -1,0 +1,10 @@
+#登录url
+login : 'http://yunying.kmwl1688.com/api/member/login'
+#战报-部门
+zhanbao_department : 'http://yunying.kmwl1688.com/api/report/operate/depart/sale/rank'
+#战报-单店铺
+zhanbao_shop : 'http://yunying.kmwl1688.com/api/report/sales/shop/pageList'
+#店铺管理-服务中的店铺
+shop_service : 'http://yunying.kmwl1688.com/api/shop/page'
+#账单内获取可提佣销售额订单
+bill_sale : 'http://yunying.kmwl1688.com/api/bill/detail/order/page'

@@ -1,0 +1,45 @@
+
+# prod ：线上  test ：测试环境
+environment: test
+
+# 线上登陆URL
+prod_url: https://saas.tmz1688.com/api/manage/user/login
+
+# 测试登陆URL
+test_url: https://saas.tmz1688.com/api/manage/user/login
+
+# token的key值
+token_key: authorization
+
+# token的有效时间（单位：分）
+time_out: 1
+
+# 数据库密钥文件路径test_key_path测试环境，prod_key_path线上环境
+test_key_path: /Users/apple/Documents/数据库密钥/开发环境超管.pem
+prod_key_path: /Users/apple/Documents/数据库密钥/yangkailiang
+
+# 叮叮URL
+dingding_url: https://oapi.dingtalk.com/robot/send?access_token=9ed3a8951e33b4708aacb790ad94fcab4cfcdffc42dd0721751cbb9745941f43
+# 叮叮密钥
+dingding_key: SEC00431529b4caf06f954fcf1b30faf2ff763c75bcf540aa5bcf97853beaf24a14
+
+
+
+# 发送邮件（暂时只支持163邮箱，后续可扩展）
+# 发送者
+sender: 17633641290@163.com
+# 密码
+password: JWBCCLNEDIYCHOPH
+# 发送内容类型 text:文本类型 file:文件
+send_type: text
+
+
+# 连接es
+host: ES-cn-6ja1wcfbt001w4ucf.public.elasticsearch.aliyuncs.com
+user: yangkailiang
+es_pwd: K2k3kikd
+port: 9200
+
+
+
+

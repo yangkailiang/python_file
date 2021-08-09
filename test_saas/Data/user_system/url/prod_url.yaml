@@ -1,0 +1,4 @@
+# 运营后台登陆
+login : http://yunying.kmwl1688.com/user/login
+# 退出登陆
+log_out : http://yunying.kmwl1688.com/api/member/loginout

@@ -1,0 +1,712 @@
+2021-08-09 09:04:56,950 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 09:04:57,435 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x102aa1940>
+2021-08-09 09:04:57,482 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 09:04:57,532 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 09:04:57,652 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 09:04:58,293 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x102bd2670>
+2021-08-09 09:04:58,367 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 09:04:58,387 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 09:04:58,493 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 09:04:58,994 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x102bd2940>
+2021-08-09 09:04:59,029 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 09:04:59,037 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 09:04:59,085 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 09:04:59,153 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 09:04:59,212 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 09:04:59,273 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 09:04:59,330 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 09:04:59,391 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 09:04:59,395 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 09:04:59,437 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 09:04:59,499 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 09:04:59,814 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 09:56:50,425 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 09:56:50,670 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105649a00>
+2021-08-09 09:56:50,694 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 09:56:50,732 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 09:56:50,777 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 09:56:51,046 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10578b670>
+2021-08-09 09:56:51,069 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 09:56:51,105 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 09:56:51,139 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 09:56:51,362 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10578b820>
+2021-08-09 09:56:51,380 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 09:56:51,434 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 09:56:51,465 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 09:56:51,517 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 09:56:51,548 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 09:56:51,583 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 09:56:51,618 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 09:56:51,654 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 09:56:51,659 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 09:56:51,696 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 09:56:51,741 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 09:56:51,955 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:01:40,355 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:01:40,568 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:02:02,985 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:02:03,225 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10526fa30>
+2021-08-09 10:02:03,248 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:02:03,285 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:02:03,322 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:02:03,602 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1053a96a0>
+2021-08-09 10:02:03,629 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:02:03,643 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:02:03,677 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:02:03,910 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1053a9940>
+2021-08-09 10:02:03,928 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:02:03,974 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:02:04,009 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:02:04,065 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:02:04,112 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:02:04,173 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:02:04,277 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:02:04,326 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:02:04,330 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:02:04,360 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:02:04,404 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:02:04,680 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:02:51,812 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:02:52,113 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106d7ea90>
+2021-08-09 10:02:52,147 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:02:52,248 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:02:52,285 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:02:52,589 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106ebd790>
+2021-08-09 10:02:52,619 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:02:52,637 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:02:52,666 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:02:52,921 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106ebd7c0>
+2021-08-09 10:02:52,945 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:02:52,978 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:02:53,022 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:02:53,077 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:02:53,113 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:02:53,149 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:02:53,190 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:02:53,234 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:02:53,238 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:02:53,266 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:02:53,307 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:02:53,509 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:04:54,122 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:04:54,406 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106fda9d0>
+2021-08-09 10:04:54,435 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:04:54,448 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:04:54,495 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:04:54,818 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x107223610>
+2021-08-09 10:04:54,859 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:04:54,959 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:04:55,133 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:04:55,880 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x107223a30>
+2021-08-09 10:04:55,906 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:04:55,936 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:04:55,976 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:04:56,029 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:04:56,073 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:04:56,112 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:04:56,153 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:04:56,186 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:04:56,190 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:04:56,234 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:04:56,280 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:04:56,499 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:05:18,661 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:05:18,942 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103715a30>
+2021-08-09 10:05:18,970 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:05:18,993 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:05:19,035 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:05:19,328 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10785f670>
+2021-08-09 10:05:19,357 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:05:19,374 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:05:19,415 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:05:19,671 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10785f790>
+2021-08-09 10:05:19,696 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:05:19,727 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:05:19,769 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:05:19,816 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:05:19,858 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:05:19,889 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:05:19,924 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:05:19,958 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:05:19,962 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:05:20,002 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:05:20,032 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:05:20,249 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:06:15,506 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:06:15,789 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1074fda00>
+2021-08-09 10:06:15,819 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:06:15,842 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:06:15,921 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:06:16,217 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10763b700>
+2021-08-09 10:06:16,243 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:06:16,278 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:06:16,309 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:06:16,526 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10763b8b0>
+2021-08-09 10:06:16,546 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:06:16,596 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:06:16,639 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:06:16,686 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:06:16,736 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:06:16,785 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:06:16,835 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:06:16,880 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:06:16,884 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:06:16,928 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:06:16,983 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:06:17,217 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:06:48,204 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:06:48,424 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:06:53,588 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:06:53,827 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104e15a60>
+2021-08-09 10:06:53,851 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:06:53,886 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:06:53,933 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:06:54,220 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104f4e760>
+2021-08-09 10:06:54,243 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:06:54,273 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:06:54,317 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:06:54,569 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104f4e880>
+2021-08-09 10:06:54,601 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:06:54,626 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:06:54,664 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:06:54,707 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:06:54,749 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:06:54,788 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:06:54,817 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:06:54,853 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:06:54,856 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:06:54,898 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:06:54,945 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:06:55,187 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:08:52,991 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:08:53,250 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104efbb20>
+2021-08-09 10:08:53,282 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:08:53,302 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:08:53,357 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:08:53,665 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105124760>
+2021-08-09 10:08:53,694 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:08:53,712 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:08:53,759 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:08:54,011 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105124520>
+2021-08-09 10:08:54,034 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:08:54,065 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:08:54,104 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:08:54,161 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:08:54,199 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:08:54,241 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:08:54,278 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:08:54,315 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:08:54,318 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:08:54,363 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:08:54,401 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:08:54,635 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:10:11,667 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:10:11,881 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x107893af0>
+2021-08-09 10:10:11,899 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:10:11,951 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:10:11,996 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:10:12,280 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1079cc7f0>
+2021-08-09 10:10:12,304 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:10:12,338 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:10:12,376 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:10:12,594 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1079cc670>
+2021-08-09 10:10:12,613 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:10:12,665 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:10:12,707 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:10:12,768 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:10:12,810 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:10:12,846 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:10:12,887 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:10:12,927 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:10:12,931 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:10:12,973 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:10:13,009 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:10:13,188 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:13:31,116 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:13:31,407 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1034eba60>
+2021-08-09 10:13:31,437 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:13:31,453 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:13:31,508 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:13:31,758 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1036286a0>
+2021-08-09 10:13:31,777 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:13:31,828 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:13:31,866 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:13:32,159 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103628880>
+2021-08-09 10:13:32,190 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:13:32,204 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:13:32,247 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:13:32,293 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:13:32,329 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:13:32,369 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:13:32,412 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:13:32,452 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:13:32,456 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:13:32,488 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:13:32,530 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:13:32,734 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:15:03,866 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:15:04,141 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1071c2ac0>
+2021-08-09 10:15:04,165 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:15:04,195 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:04,236 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:04,508 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1072f5700>
+2021-08-09 10:15:04,532 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:15:04,567 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:04,609 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:04,897 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1072f5490>
+2021-08-09 10:15:04,927 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:15:04,940 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:04,981 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:05,038 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:15:05,085 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:15:05,179 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:15:05,216 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:15:05,258 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:15:05,262 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:15:05,313 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:15:05,391 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:15:05,610 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:15:22,190 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:15:22,470 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1032fea90>
+2021-08-09 10:15:22,501 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:15:22,518 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:22,552 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:22,858 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1034296d0>
+2021-08-09 10:15:22,887 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:15:22,906 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:22,953 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:23,195 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103429670>
+2021-08-09 10:15:23,220 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:15:23,253 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:23,291 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:23,341 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:15:23,384 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:15:23,428 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:15:23,479 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:15:23,510 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:15:23,513 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:15:23,548 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:15:23,586 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:15:23,807 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:15:38,324 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:15:38,586 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x107268a90>
+2021-08-09 10:15:38,614 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:15:38,641 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:38,691 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:39,014 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1073966d0>
+2021-08-09 10:15:39,118 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:15:39,150 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:39,206 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:39,458 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x107396640>
+2021-08-09 10:15:39,481 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:15:39,519 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:15:39,570 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:15:39,625 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:15:39,663 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:15:39,707 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:15:39,741 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:15:39,783 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:15:39,787 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:15:39,823 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:15:39,865 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:15:40,060 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:16:24,105 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:16:24,396 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103e2faf0>
+2021-08-09 10:16:24,427 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:16:24,438 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:16:24,487 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:16:24,773 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104ca37c0>
+2021-08-09 10:16:24,797 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:16:24,831 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:16:24,868 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:16:25,150 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104ca3460>
+2021-08-09 10:16:25,183 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:16:25,193 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:16:25,240 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:16:25,286 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:16:25,316 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:16:25,359 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:16:25,400 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:16:25,435 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:16:25,439 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:16:25,478 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:16:25,508 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:16:25,706 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:18:45,710 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:18:45,981 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105923b20>
+2021-08-09 10:18:46,005 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:18:46,030 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:18:46,090 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:18:46,370 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105a54760>
+2021-08-09 10:18:46,395 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:18:46,430 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:18:46,462 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:18:46,716 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105a54970>
+2021-08-09 10:18:46,739 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:18:46,778 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:18:46,811 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:18:46,863 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:18:46,904 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:18:46,945 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:18:46,990 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:18:47,025 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:18:47,029 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:18:47,069 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:18:47,098 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:18:47,329 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:19:34,745 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:19:35,008 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10713aa90>
+2021-08-09 10:19:35,033 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:19:35,058 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:19:35,105 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:19:35,348 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10726e6d0>
+2021-08-09 10:19:35,367 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:19:35,420 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:19:35,461 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:19:35,739 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10726ea00>
+2021-08-09 10:19:35,769 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:19:35,782 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:19:35,824 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:19:35,885 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:19:35,929 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:19:35,972 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:19:36,014 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:19:36,066 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:19:36,070 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:19:36,112 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:19:36,147 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:19:36,364 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:22:03,058 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:22:03,307 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10487da60>
+2021-08-09 10:22:03,326 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:22:03,361 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:22:03,414 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:22:03,736 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104ae5760>
+2021-08-09 10:22:03,762 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:22:03,790 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:22:03,834 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:22:04,059 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104ae5880>
+2021-08-09 10:22:04,077 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:22:04,132 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:22:04,170 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:22:04,226 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:22:04,265 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:22:04,302 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:22:04,344 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:22:04,382 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:22:04,386 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:22:04,429 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:22:04,467 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:22:04,680 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:23:01,557 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:23:02,047 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1055dbaf0>
+2021-08-09 10:23:02,098 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:23:02,200 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:23:02,295 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:23:02,694 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1057097f0>
+2021-08-09 10:23:02,752 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:23:02,817 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:23:02,957 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:23:03,406 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105709700>
+2021-08-09 10:23:03,450 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:23:03,551 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:23:03,622 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:23:03,701 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:23:03,795 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:23:03,858 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:23:03,914 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:23:03,971 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:23:03,976 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:23:04,026 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:23:04,105 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:23:04,317 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:23:30,266 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:23:30,559 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1050f0a60>
+2021-08-09 10:23:30,589 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:23:30,603 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:23:30,650 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:23:30,938 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10521f670>
+2021-08-09 10:23:30,964 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:23:30,988 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:23:31,026 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:23:31,330 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10521f790>
+2021-08-09 10:23:31,359 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:23:31,378 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:23:31,419 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:23:31,468 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:23:31,505 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:23:31,550 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:23:31,579 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:23:31,620 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:23:31,624 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:23:31,664 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:23:31,700 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:23:31,898 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:24:22,599 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:24:22,888 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104d77af0>
+2021-08-09 10:24:22,920 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:24:22,936 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:22,985 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:23,246 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1090a47f0>
+2021-08-09 10:24:23,264 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:24:23,317 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:23,359 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:23,610 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1090a4670>
+2021-08-09 10:24:23,639 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:24:23,665 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:23,732 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:23,795 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:24:23,840 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:24:23,890 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:24:23,933 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:24:23,983 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:24:23,986 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:24:24,036 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:24:24,073 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:24:24,300 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:24:30,918 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:24:31,237 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103468ac0>
+2021-08-09 10:24:31,273 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:24:31,278 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:31,331 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:31,714 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103593790>
+2021-08-09 10:24:31,747 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:24:31,755 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:31,802 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:32,040 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1035938b0>
+2021-08-09 10:24:32,057 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:24:32,099 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:32,133 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:32,180 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:24:32,221 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:24:32,263 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:24:32,300 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:24:32,344 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:24:32,347 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:24:32,390 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:24:32,429 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:24:32,640 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:24:38,347 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:24:38,635 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106ec3ac0>
+2021-08-09 10:24:38,671 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:24:38,683 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:38,728 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:39,073 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106ff8790>
+2021-08-09 10:24:39,105 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:24:39,196 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:39,246 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:39,570 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106ff8820>
+2021-08-09 10:24:39,627 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:24:39,692 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:24:39,757 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:24:39,829 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:24:39,889 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:24:39,956 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:24:40,004 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:24:40,064 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:24:40,067 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:24:40,109 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:24:40,163 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:24:40,400 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:25:03,568 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:25:03,823 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10756fa60>
+2021-08-09 10:25:03,851 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:25:03,881 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:25:03,943 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:25:04,286 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1076986a0>
+2021-08-09 10:25:04,327 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:25:04,409 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:25:04,457 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:25:04,778 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x107698610>
+2021-08-09 10:25:04,802 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:25:04,841 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:25:04,885 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:25:04,951 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:25:04,988 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:25:05,035 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:25:05,076 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:25:05,122 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:25:05,126 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:25:05,166 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:25:05,204 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:25:05,438 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:25:09,392 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:25:09,644 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106d0fac0>
+2021-08-09 10:25:09,669 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:25:09,700 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:25:09,743 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:25:10,072 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106e407c0>
+2021-08-09 10:25:10,101 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:25:10,116 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:25:10,150 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:25:10,396 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106e40460>
+2021-08-09 10:25:10,422 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:25:10,455 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:25:10,485 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:25:10,534 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:25:10,565 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:25:10,601 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:25:10,643 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:25:10,676 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:25:10,679 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:25:10,738 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:25:10,776 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:25:10,999 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:26:24,703 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:26:25,427 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x102d6fac0>
+2021-08-09 10:26:25,555 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:26:25,594 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:25,749 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:26,460 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x102ea3790>
+2021-08-09 10:26:26,585 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:26:26,626 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:26,763 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:27,221 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x102ea3b20>
+2021-08-09 10:26:27,251 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:26:27,350 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:27,409 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:27,514 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:26:27,609 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:26:27,722 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:26:27,814 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:26:27,899 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:26:27,904 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:26:27,959 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:26:28,025 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:26:28,311 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:26:32,098 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:26:32,355 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x10580fac0>
+2021-08-09 10:26:32,386 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:26:32,411 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:32,458 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:32,757 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105945700>
+2021-08-09 10:26:32,787 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:26:32,807 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:32,837 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:33,118 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x105945490>
+2021-08-09 10:26:33,150 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:26:33,163 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:33,194 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:33,244 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:26:33,282 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:26:33,319 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:26:33,362 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:26:33,405 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:26:33,410 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:26:33,454 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:26:33,488 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:26:33,684 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:26:40,635 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:26:40,903 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106aa3b20>
+2021-08-09 10:26:40,931 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:26:40,940 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:40,981 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:41,284 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106bdc730>
+2021-08-09 10:26:41,311 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:26:41,342 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:41,384 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:41,637 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106bdc3a0>
+2021-08-09 10:26:41,672 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:26:41,693 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:26:41,739 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:26:41,814 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:26:41,858 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:26:41,908 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:26:41,962 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:26:42,003 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:26:42,006 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:26:42,063 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:26:42,119 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:26:42,322 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:28:10,517 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:28:14,241 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1048bbac0>
+2021-08-09 10:28:14,854 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:28:14,888 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:28:15,494 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:28:17,963 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104ae4790>
+2021-08-09 10:28:18,356 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:28:18,372 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:28:18,790 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:28:21,645 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104ae4b20>
+2021-08-09 10:28:22,125 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:28:22,192 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:28:22,629 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:28:23,027 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:28:23,449 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:28:23,868 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:28:24,380 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:28:24,818 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:28:24,830 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:28:25,507 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:28:26,119 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:28:27,871 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:28:56,904 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:28:59,880 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1046efaf0>
+2021-08-09 10:29:00,288 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:29:00,330 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:29:00,647 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:29:03,114 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1053247c0>
+2021-08-09 10:29:03,576 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:29:03,621 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:29:04,002 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:29:06,362 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1053248b0>
+2021-08-09 10:29:06,905 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:29:06,973 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:29:07,489 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:29:08,000 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:29:08,559 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:29:09,332 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:29:10,048 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_company请求成功,返回为：{'data': {'name': '石家庄昌美制袋有昌美制袋限公司昌美制袋限公司', 'contactName': '码云', 'mainUser': 'hash', 'addTime': '2021-02-03', 'isVerify': 1, 'special': {'isNomal': 1, 'isSeason': 1, 'seasonStage': 'low_season'}, 'id': 1}, 'message': '', 'code': 10000}
+2021-08-09 10:29:10,662 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口get_app_list请求成功,返回为：{'code': 10000, 'message': '', 'data': [{'id': 1, 'appName': '爆款温度计', 'appCode': 'hot_diagnose', 'operateId': 1, 'operateTime': 1232336}, {'id': 2, 'appName': '选品计划', 'appCode': 'choice', 'operateId': 1, 'operateTime': 1232336}]}
+2021-08-09 10:29:10,670 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:28] - ERROR: 接口get_on_trial请求失败，原因是：'get_on_trial'
+2021-08-09 10:29:11,043 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:29:11,687 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口on_trial请求成功,返回为：{'code': 10000, 'message': '成功'}
+2021-08-09 10:29:12,924 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:30:11,143 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:30:15,278 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106dfaac0>
+2021-08-09 10:30:15,993 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:30:16,032 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:30:16,563 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:30:19,475 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106f23790>
+2021-08-09 10:30:20,090 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:30:20,122 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:30:20,715 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:30:23,848 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x106f23340>
+2021-08-09 10:30:24,178 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:30:24,211 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:30:24,607 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:30:25,050 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:30:25,621 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:30:26,644 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:37:37,059 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:37:41,570 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103834a90>
+2021-08-09 10:37:42,491 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:37:42,500 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:37:43,312 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:37:48,226 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103968760>
+2021-08-09 10:37:49,046 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:37:49,060 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:37:49,889 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:37:55,366 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x103968880>
+2021-08-09 10:37:56,008 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:37:56,068 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:37:56,477 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:37:56,875 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:37:57,251 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:37:58,394 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-08-09 10:39:45,507 - /Users/apple/python_file/test_saas/Tools/tools.py[line:50] - INFO: 测试数据读取成功
+2021-08-09 10:39:49,878 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x104f81ac0>
+2021-08-09 10:39:50,596 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到0条数据:SELECT id FROM team_member where name=''
+2021-08-09 10:39:50,630 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:39:51,414 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:39:54,439 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1053e3790>
+2021-08-09 10:39:55,009 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:39:55,078 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:39:55,614 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:39:58,690 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:30] - INFO: 连接测试环境：kuaimen 数据库成功:<pymysql.cursors.DictCursor object at 0x1053e3340>
+2021-08-09 10:39:59,256 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:59] - INFO: 执行sql成功，查到1条数据:SELECT id FROM team_member where name='刘叶叶'
+2021-08-09 10:39:59,312 - /Users/apple/python_file/test_saas/Tools/Mysql.py[line:79] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-08-09 10:39:59,914 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:25] - INFO: 接口invitation请求成功,返回为：{'code': 10000, 'message': '已存在'}
+2021-08-09 10:40:00,528 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:40:01,129 - /Users/apple/python_file/test_saas/Api/user_system_api.py[line:21] - INFO: 接口login请求成功,返回为：{'code': 10000, 'message': 'Lorem fugiat', 'data': {'token': 'Excepteur'}}
+2021-08-09 10:40:03,090 - /Users/apple/python_file/test_saas/Tools/Dingding.py[line:42] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}

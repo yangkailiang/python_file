@@ -1,0 +1,70 @@
+# ===========================  商业版 基础班&企业版 ===========================================
+# 获取验证码
+get_message: http://121.41.16.183:3000/mock/61/manage/user/send/smsCode
+
+# 获取邀请链接
+get_invitation_url: http://121.41.16.183:3000/mock/61/generate/invitation/url
+
+# 邀请入驻
+invitation: http://121.41.16.183:3000/mock/61/manage/user/register/by/invitation
+
+# 获取销售人员信息
+get_sale: http://121.41.16.183:3000/mock/61/manage/user/query/sale
+
+# 获取企业基本信息
+get_company: http://121.41.16.183:3000/mock/61/manage/company/info
+
+# 获取 用户的应用列表
+get_app_list: http://121.41.16.183:3000/mock/61/company/app/list
+
+# 获取图片验证码
+get_imgcode: http://121.41.16.183:3000/mock/61/manage/user/gain/imgCode
+
+# 登陆 短信验证码和图形验证码
+login: http://121.41.16.183:3000/mock/61/manage/user/login
+
+# 我的订单列表
+my_order_list: http://121.41.16.183:3000/mock/61/manage/my/order/pageList
+
+# 获取应用报价列表
+app_price_list: http://121.41.16.183:3000/mock/61/manage/app/goods/list
+
+# 获取应用的到期时间
+app_end_time: http://121.41.16.183:3000/mock/61/manage/app/expireTime
+
+# 基础版-购买/续费-下单
+app_do_order: http://121.41.16.183:3000/mock/61/manage/app/doOrder
+
+# # 基础版-购买/续费-支付
+app_do_pay: http://121.41.16.183:3000/mock/61/manage/app/doPay
+
+# 试用
+on_trial: http://121.41.16.183:3000/mock/61/manage/app/try
+
+# 获取续费后的到期时间
+get_expire_time: http://121.41.16.183:3000/mock/61/manage/goods/app/getExpireTime
+
+# 取消订单
+cancel_order: http://121.41.16.183:3000/mock/61/manage/order/cancel
+
+# 支付结果查询
+app_do_pay_select: http://121.41.16.183:3000/mock/61/manage/app/pay/complete
+
+
+
+
+# ================================== 内部版 ===============================================
+# 内部版-获取客户列表
+user_list: http://121.41.16.183:3000/mock/61/client/manage/page
+
+# 内部版-获取用户邀请列表
+user_invitation_list: http://121.41.16.183:3000/mock/61/client/invitation/page
+
+# 内部版- 获取账号列表
+account_list: http://121.41.16.183:3000/mock/61/manage/user/account/page
+
+# 内部版-客户订单列表
+user_order: http://121.41.16.183:3000/mock/61/manage/customer/order/pageList
+
+# 内部版-获取商品应用列表
+all_app_list: http://121.41.16.183:3000/mock/61/manage/goods/app/list
