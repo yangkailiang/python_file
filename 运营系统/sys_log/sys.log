@@ -1,0 +1,16 @@
+2021-11-27 17:35:10,355 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x106c536a0>
+2021-11-27 17:35:10,521 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到14条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-27 17:35:10,686 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到7条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-27 17:35:10,778 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到21条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-27 17:35:10,867 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到16条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-27 17:35:11,086 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-27 17:35:11,321 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-27 17:35:11,410 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 576
+2021-11-27 17:35:11,592 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-27 17:35:11,682 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 628
+2021-11-27 17:35:11,907 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-27 17:35:12,005 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 35
+2021-11-27 17:35:12,241 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-27 17:35:12,309 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:77] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-11-27 23:47:24,323 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/get_saas_token.py[line:18] - ERROR: 环境填错了
+2021-11-28 19:41:02,564 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Generate_log.py[line:44] - INFO: ddddd

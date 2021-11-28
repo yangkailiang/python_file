@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="541b5f90-a5a1-4518-8694-ead697a47e4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hot/hot_diagnose/Function/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/hot_diagnose/Function/get_saas_api_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/hot_diagnose/Function/login_key.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/hot_diagnose/Test_case/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/hot_diagnose/Tools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/hot_diagnose/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/templates/group_hot_diagnose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/templates/hot_diagnose_lst.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/templates/input_group_hot_diagnose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/templates/input_hot_diagnose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hot/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hot_diagnose/Function/get_saas_api_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_saas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_saas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hot_diagnose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hot_diagnose/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,6 +213,7 @@
       <workItem from="1637118990700" duration="14798000" />
       <workItem from="1637220374367" duration="28314000" />
       <workItem from="1637480318888" duration="37000" />
+      <workItem from="1637826776650" duration="21000" />
     </task>
     <servers />
   </component>

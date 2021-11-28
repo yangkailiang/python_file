@@ -1,0 +1,234 @@
+2021-11-25 16:07:17,852 - /Users/apple/python_file/运营系统/tools/Generate_log.py[line:43] - INFO: ddddd
+2021-11-26 14:33:01,041 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x10625bc70>
+2021-11-26 14:33:01,071 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:34:16,788 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x104607be0>
+2021-11-26 14:34:16,822 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:34:33,478 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x103cbfbe0>
+2021-11-26 14:34:33,507 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:34:46,197 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x105c93c10>
+2021-11-26 14:34:46,220 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:34:57,032 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x104413c10>
+2021-11-26 14:34:57,063 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:35:09,177 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x10448ec40>
+2021-11-26 14:35:09,196 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:35:20,281 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x10423ac40>
+2021-11-26 14:35:20,325 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:35:25,627 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x10585fbe0>
+2021-11-26 14:35:25,664 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:36:12,268 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x105e4bc10>
+2021-11-26 14:36:12,304 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=1110 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=1110)
+2021-11-26 14:37:13,650 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x1044cfc10>
+2021-11-26 14:37:13,674 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 14:37:27,210 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x102313be0>
+2021-11-26 14:37:27,233 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 14:39:03,728 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x104172ca0>
+2021-11-26 14:39:03,746 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 14:39:40,624 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x101b62c40>
+2021-11-26 14:39:40,656 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 14:39:51,063 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x1024b6c70>
+2021-11-26 14:39:51,095 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 14:40:12,108 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x105a02c40>
+2021-11-26 14:40:12,127 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 14:40:12,290 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到206条数据:select * from check_product_info where product_specific_id=1415850450767814657
+2021-11-26 15:00:28,658 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x1037c9610>
+2021-11-26 15:00:28,682 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 15:00:28,682 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:19] - INFO: 获取间隔时间:30和商品分组:1415850450767814657成功
+2021-11-26 15:00:28,766 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到206条数据:select * from check_product_info where product_specific_id=1415850450767814657
+2021-11-26 15:00:28,767 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:29] - INFO: 获取店铺:3591数据成功,共206条
+2021-11-26 15:07:46,218 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x103c0a9d0>
+2021-11-26 15:07:46,243 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 15:07:46,244 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:19] - INFO: 获取店铺:3591间隔时间和product_specific_id成功:间隔时间:30,product_specific_id:1415850450767814657
+2021-11-26 15:07:46,324 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到206条数据:select * from check_product_info where product_specific_id=1415850450767814657
+2021-11-26 15:07:46,324 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:29] - INFO: 获取店铺:3591数据成功,共206条
+2021-11-26 15:07:46,348 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:select * FROM check_layer_setting where id=(SELECT layer_setting_id FROM check_setting_version where option_type=1 and status=1)
+2021-11-26 15:08:17,227 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x10630e9d0>
+2021-11-26 15:08:17,255 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM check_product_specific WHERE shop_id=3591 and operate_time =(select MAX(operate_time) FROM check_product_specific WHERE shop_id=3591)
+2021-11-26 15:08:17,256 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:19] - INFO: 获取店铺:3591间隔时间和product_specific_id成功:间隔时间:30,product_specific_id:1415850450767814657
+2021-11-26 15:08:17,335 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到206条数据:select * from check_product_info where product_specific_id=1415850450767814657
+2021-11-26 15:08:17,337 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:29] - INFO: 获取店铺:3591数据成功,共206条
+2021-11-26 15:08:17,367 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:select * FROM check_layer_setting where id=(SELECT layer_setting_id FROM check_setting_version where option_type=1 and status=1)
+2021-11-26 15:08:17,367 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:38] - INFO: 获取分层、优良中差设置成功,一层访客量指数分指标量:20,三层访客指标量:100,优秀表现指数分:80,良好表现指数分:50,及格表现指数分:5
+2021-11-26 15:09:04,665 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功:<pymysql.cursors.DictCursor object at 0x10394fa60>
+2021-11-26 15:09:04,734 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:19] - INFO: 获取店铺:3591间隔时间和product_specific_id成功:间隔时间:30,product_specific_id:1415850450767814657
+2021-11-26 15:09:04,920 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:29] - INFO: 获取店铺:3591数据成功,共206条
+2021-11-26 15:09:05,015 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:38] - INFO: 获取分层、优良中差设置成功,一层访客量指数分指标量:20,三层访客指标量:100,优秀表现指数分:80,良好表现指数分:50,及格表现指数分:5
+2021-11-26 15:10:49,494 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功
+2021-11-26 15:10:49,519 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:19] - INFO: 获取店铺:3591间隔时间和product_specific_id成功:间隔时间:30,product_specific_id:1415850450767814657
+2021-11-26 15:10:49,609 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:29] - INFO: 获取店铺:3591数据成功,共206条
+2021-11-26 15:10:49,648 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:38] - INFO: 获取分层、优良中差设置成功,一层访客量指数分指标量:20,三层访客指标量:100,优秀表现指数分:80,良好表现指数分:50,及格表现指数分:5
+2021-11-26 15:29:29,177 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功
+2021-11-26 15:29:29,220 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:23] - INFO: 获取店铺:3591间隔时间和product_specific_id成功:间隔时间:30,product_specific_id:1415850450767814657
+2021-11-26 15:29:29,309 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:38] - INFO: 获取店铺:3591数据成功,共206条
+2021-11-26 15:29:29,339 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:47] - INFO: 获取分层、优良中差设置成功,一层访客量指数分指标量:20,三层访客指标量:100,优秀表现指数分:80,良好表现指数分:50,及格表现指数分:5
+2021-11-26 15:29:41,942 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:28] - INFO: 连接测试环境：saas_hot_diagnose 数据库成功
+2021-11-26 15:29:41,971 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:23] - INFO: 获取店铺:3591间隔时间和product_specific_id成功:间隔时间:30,product_specific_id:1415850450767814657
+2021-11-26 15:29:42,050 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:38] - INFO: 获取店铺:3591数据成功,共206条
+2021-11-26 15:29:42,090 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Data/get_mysql_data.py[line:47] - INFO: 获取分层、优良中差设置成功,一层访客量指数分指标量:20,三层访客指标量:100,优秀表现指数分:80,良好表现指数分:50,及格表现指数分:5
+2021-11-26 15:29:42,175 - /Users/apple/python_file/商品智能诊断/hot_diagnose/Tools/Mysql.py[line:76] - INFO: 关闭游标、数据库连接、ssh连接成功
+2021-11-26 16:05:25,417 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x104425eb0>
+2021-11-26 16:05:25,612 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*), member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:12:44,505 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x103bb74c0>
+2021-11-26 16:12:44,671 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:12:44,809 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:12:44,954 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:13:39,241 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x10675b5e0>
+2021-11-26 16:13:39,421 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:13:39,569 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:13:39,715 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:15:19,684 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x104077970>
+2021-11-26 16:15:19,833 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:15:19,985 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:15:20,141 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:15:20,258 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:27:43,117 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x1046f7ee0>
+2021-11-26 16:27:43,281 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:27:43,439 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:27:43,565 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:27:43,691 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:27:57,528 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x10620ef10>
+2021-11-26 16:27:57,686 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:27:57,843 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:27:57,976 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:27:58,091 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:27:58,210 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:27:58,324 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:28:29,924 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x101dbeeb0>
+2021-11-26 16:28:30,043 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:28:30,154 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:33:15,735 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x1021d6fd0>
+2021-11-26 16:33:15,870 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:33:15,967 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:33:29,356 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x103dc7fa0>
+2021-11-26 16:33:29,509 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:33:29,669 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:33:29,792 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:33:29,955 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:34:23,450 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x1023bffa0>
+2021-11-26 16:34:23,611 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:34:23,772 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:34:23,896 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:34:24,020 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:35:30,986 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x103c77ee0>
+2021-11-26 16:35:31,142 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:35:31,296 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:35:31,416 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:35:31,532 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:40:46,885 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x106cd6730>
+2021-11-26 16:40:47,048 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:40:47,214 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:40:47,339 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:40:47,467 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:40:47,709 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:40:47,927 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:42:20,072 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x107049730>
+2021-11-26 16:42:20,247 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:42:20,408 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:42:20,545 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:42:20,670 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:42:20,887 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:42:21,119 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:07,271 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x1068c4a90>
+2021-11-26 16:50:07,437 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:50:07,602 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:50:07,737 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:50:07,868 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:50:08,103 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:08,303 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:08,393 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 219
+2021-11-26 16:50:18,374 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x104064a90>
+2021-11-26 16:50:18,553 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:50:18,710 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:50:18,819 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:50:18,933 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:50:19,132 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:19,342 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:19,416 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 219
+2021-11-26 16:50:19,620 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:19,695 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 220
+2021-11-26 16:50:19,895 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:19,998 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 235
+2021-11-26 16:50:20,191 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:20,264 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 237
+2021-11-26 16:50:20,450 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:20,523 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 241
+2021-11-26 16:50:20,731 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:20,804 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 242
+2021-11-26 16:50:21,022 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:21,107 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 243
+2021-11-26 16:50:21,279 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:21,355 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 249
+2021-11-26 16:50:21,556 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:21,634 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 558
+2021-11-26 16:50:21,814 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:21,892 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 569
+2021-11-26 16:50:22,094 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:22,170 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 572
+2021-11-26 16:50:22,378 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:22,474 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 576
+2021-11-26 16:50:22,726 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:22,800 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 577
+2021-11-26 16:50:23,022 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:23,117 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 599
+2021-11-26 16:50:23,307 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:23,386 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 603
+2021-11-26 16:50:23,582 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:23,660 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 605
+2021-11-26 16:50:23,864 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:23,954 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 617
+2021-11-26 16:50:24,213 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:50:24,289 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 625
+2021-11-26 16:50:24,478 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'status': 1111, 'wait': 5, 'source': 'x5', 'punish': 'deny', 'uuid': '2bdf6e23c9508a567d8d478017087247', 'errcode': 130101, 'errmsg': 'send too fast, exceed 20 times per minute'}
+2021-11-26 16:50:24,550 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 626
+2021-11-26 16:50:24,726 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'status': 1111, 'wait': 5, 'source': 'x5', 'punish': 'deny', 'uuid': '37828976decd74bc63f57440e3c35c89', 'errcode': 130101, 'errmsg': 'send too fast, exceed 20 times per minute'}
+2021-11-26 16:50:24,810 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 628
+2021-11-26 16:50:25,053 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'status': 1111, 'wait': 5, 'source': 'x5', 'punish': 'deny', 'uuid': '7ee10c14484c7fbd919f11c1f089b4a6', 'errcode': 130101, 'errmsg': 'send too fast, exceed 20 times per minute'}
+2021-11-26 16:50:25,135 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 629
+2021-11-26 16:50:25,335 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'status': 1111, 'wait': 5, 'source': 'x5', 'punish': 'deny', 'uuid': '194708036bb6a5956e3128e403f55ecf', 'errcode': 130101, 'errmsg': 'send too fast, exceed 20 times per minute'}
+2021-11-26 16:50:25,410 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 630
+2021-11-26 16:50:25,617 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'status': 1111, 'wait': 5, 'source': 'x5', 'punish': 'deny', 'uuid': '127f2448675eded00cc94f94b89909dc', 'errcode': 130101, 'errmsg': 'send too fast, exceed 20 times per minute'}
+2021-11-26 16:50:25,708 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 631
+2021-11-26 16:50:25,969 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'status': 1111, 'wait': 5, 'source': 'x5', 'punish': 'deny', 'uuid': '2390c8ec1fdfddf6ca5b467afe9f3d6e', 'errcode': 130101, 'errmsg': 'send too fast, exceed 20 times per minute'}
+2021-11-26 16:50:26,046 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到1条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `id` = 633
+2021-11-26 16:50:26,247 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'status': 1111, 'wait': 5, 'source': 'x5', 'punish': 'deny', 'uuid': '05c1c6f6097c40ceae896ebdf335bc18', 'errcode': 130101, 'errmsg': 'send too fast, exceed 20 times per minute'}
+2021-11-26 16:56:25,312 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x102d57340>
+2021-11-26 16:56:25,474 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:56:25,633 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:56:25,753 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:56:25,884 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:56:26,125 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:56:26,313 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:58:11,848 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x106dcb340>
+2021-11-26 16:58:11,998 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:58:12,146 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 16:58:12,251 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:58:12,321 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 16:58:12,557 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 16:58:12,743 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:02:39,547 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x10213f340>
+2021-11-26 17:02:39,704 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:02:39,861 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:02:39,991 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:02:40,113 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:02:40,332 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:02:40,521 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:11:17,493 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x104874790>
+2021-11-26 17:15:00,177 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:15:00,352 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:15:00,489 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:15:00,579 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:15:00,816 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:15:01,022 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:19:31,103 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x106017790>
+2021-11-26 17:21:00,502 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:21:00,713 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:21:00,922 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:21:01,083 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:21:01,426 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:21:01,708 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:23:22,748 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:48] - INFO: 连接线上：kuaimen_shop 数据库成功:<pymysql.cursors.DictCursor object at 0x10477b790>
+2021-11-26 17:25:00,164 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_train` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:25:00,319 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT count(*) as num, member_id FROM `kuaimen_shop`.`shop_clue_operate` WHERE `member_id` IS NOT NULL and is_assignable=1 and data_status=0 GROUP BY member_id
+2021-11-26 17:25:00,398 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到24条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (27) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:25:00,515 - /Users/apple/python_file/运营系统/tools/Mysql.py[line:57] - INFO: 执行sql成功，查到17条数据:SELECT * FROM `kuaimen`.`team_member` WHERE `team_post_id` IN (16) AND `joy_status` = '1' AND `status` = '1'
+2021-11-26 17:25:00,738 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
+2021-11-26 17:25:00,955 - /Users/apple/python_file/运营系统/tools/Dingding.py[line:39] - INFO: 叮叮响应：{'errcode': 0, 'errmsg': 'ok'}
