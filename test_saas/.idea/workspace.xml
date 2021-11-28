@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ce92aef-bbbd-480b-8fd7-004891b5fa72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SAAS/.idea/SAAS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test_platform/.idea/Test_platform.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../商品智能诊断/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../商品智能诊断/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../商品智能诊断/hot_diagnose/Data/get_api_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../商品智能诊断/hot_diagnose/Tools/Generate_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../商品智能诊断/hot_diagnose/Tools/Mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../商品智能诊断/hot_diagnose/Tools/public_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../模版/.idea/模版.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../运营系统/.idea/运营系统.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../运营系统/tools/Generate_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../运营系统/tools/Mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SAAS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SAAS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_platform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test_platform/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hot_diagnose/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/tools.py" afterDir="false" />
-    </list>
+    <list default="true" id="7ce92aef-bbbd-480b-8fd7-004891b5fa72" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
